@@ -5,3 +5,4 @@ Mask R-CNN was trained with this dataset to segement and seperate different fash
 
 Example segementation - 
 
+![alt_text](https://github.com/Snehal-Reddy/DeepFashion_MRCNN/blob/master/images/result.png)
